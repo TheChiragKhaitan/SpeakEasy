@@ -1,6 +1,6 @@
 # SpeakEasy 🎙️ [```live```](https://speakeasy-chirag-khaitan.netlify.app/).
 
-Welcome to **SpeakEasy**, your go-to web app for converting text into natural-sounding speech. Whether you need a voiceover for a project, want to listen to text while multitasking, or simply enjoy hearing your written words come to life, SpeakEasy has got you covered!
+Welcome to **SpeakEasy**, your go-to web app for converting text into natural-sounding speech. Whether you need a voiceover for a project, want to listen to text while multitasking, or simply enjoy hearing your written words come to life, SpeakEasy has got you covered! It is built using basic ```HTML```, ```CSS``` and ```Javascript```
 
 ## Features ✨
 
